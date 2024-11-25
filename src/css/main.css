@@ -35,6 +35,7 @@ body {
   align-items: center;
   color: var(--light-template-background);
   align-self: center;
+  background:#1E5139;
 }
 
 .logo h2 {
